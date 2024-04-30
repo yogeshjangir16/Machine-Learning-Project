@@ -48,12 +48,8 @@ Compared the performance of each model using various evaluation metrics such as 
 ## Website
 
 Created a website using HTML, CSS, and Flask, where users can input their details, which are then passed to the model for prediction.
-![Image Alt Text](Web_Image/image.png)
-## Contributors
 
-- Shashwat Roy (B21CS071): Data transformations, model training, parameter tuning, and report writing.
-- Pranav Pant (B21CS088): Data analysis, preprocessing, model training, website development, and report writing.
-- Yogesh Jangir (B21CS083): Data visualization, model training, website development, and report writing.
+![Image Alt Text](Web_Image/image.png)
 
 ## Conclusion
 
